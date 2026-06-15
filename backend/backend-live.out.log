@@ -1,0 +1,1776 @@
+[INFO] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/flywaydb/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/git-commit-id/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/cyclonedx/maven-metadata.xml
+Progress (1): 234 BProgress (2): 234 B | 249 BProgress (3): 234 B | 249 B | 255 BProgress (4): 234 B | 249 B | 255 B | 243 B                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/flywaydb/maven-metadata.xml (234 B at 464 B/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/maven-metadata.xml (249 B at 493 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jooq/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/maven-metadata.xml
+Downloaded from central: https://repo.maven.apache.org/maven2/org/cyclonedx/maven-metadata.xml (243 B at 480 B/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/io/github/git-commit-id/maven-metadata.xml (255 B at 502 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/liquibase/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/graalvm/buildtools/maven-metadata.xml
+Progress (1): 398 BProgress (2): 398 B | 375 BProgress (3): 398 B | 375 B | 242 BProgress (4): 398 B | 375 B | 242 B | 394 B                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/jooq/maven-metadata.xml (398 B at 4.6 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Downloaded from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/maven-metadata.xml (375 B at 4.2 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/graalvm/buildtools/maven-metadata.xml (242 B at 2.8 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/liquibase/maven-metadata.xml (394 B at 4.4 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+Progress (1): 3.1 kBProgress (1): 7.7 kBProgress (1): 12 kB Progress (1): 17 kBProgress (1): 20 kBProgress (1): 21 kBProgress (2): 21 kB | 4.6 kBProgress (2): 21 kB | 9.7 kBProgress (2): 21 kB | 14 kB                            Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (14 kB at 179 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (21 kB at 148 kB/s)
+[INFO] 
+[INFO] ----------------------< com.settings:management >-----------------------
+[INFO] Building Settings Management API 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] >>> spring-boot:3.3.4:run (default-cli) > test-compile @ management >>>
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ management ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 0 resource from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ management ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ management ---
+[INFO] skip non existing resourceDirectory C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ management ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] <<< spring-boot:3.3.4:run (default-cli) < test-compile @ management <<<
+[INFO] 
+[INFO] 
+[INFO] --- spring-boot:3.3.4:run (default-cli) @ management ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-buildpack-platform/3.3.4/spring-boot-buildpack-platform-3.3.4.pom
+Progress (1): 970 BProgress (1): 2.7 kBProgress (1): 3.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-buildpack-platform/3.3.4/spring-boot-buildpack-platform-3.3.4.pom (3.2 kB at 42 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.pom
+Progress (1): 976 BProgress (1): 2.0 kBProgress (1): 3.4 kBProgress (1): 5.6 kBProgress (1): 7.0 kBProgress (1): 9.1 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 16 kBProgress (1): 18 kBProgress (1): 19 kBProgress (1): 19 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.pom (19 kB at 305 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.14.2/jackson-base-2.14.2.pom
+Progress (1): 922 BProgress (1): 2.0 kBProgress (1): 3.8 kBProgress (1): 5.8 kBProgress (1): 7.3 kBProgress (1): 9.2 kBProgress (1): 10 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.14.2/jackson-base-2.14.2.pom (10 kB at 155 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.14.2/jackson-bom-2.14.2.pom
+Progress (1): 931 BProgress (1): 2.0 kBProgress (1): 6.3 kBProgress (1): 15 kB Progress (1): 17 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.14.2/jackson-bom-2.14.2.pom (17 kB at 265 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.14/jackson-parent-2.14.pom
+Progress (1): 1.1 kBProgress (1): 2.2 kBProgress (1): 3.6 kBProgress (1): 5.6 kBProgress (1): 7.7 kBProgress (1): 7.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.14/jackson-parent-2.14.pom (7.7 kB at 102 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/48/oss-parent-48.pom
+Progress (1): 954 BProgress (1): 2.3 kBProgress (1): 3.5 kBProgress (1): 5.3 kBProgress (1): 8.4 kBProgress (1): 10 kB Progress (1): 13 kBProgress (1): 15 kBProgress (1): 18 kBProgress (1): 21 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/48/oss-parent-48.pom (24 kB at 301 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.pom
+Progress (1): 946 BProgress (1): 2.0 kBProgress (1): 3.4 kBProgress (1): 5.7 kBProgress (1): 6.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.pom (6.2 kB at 89 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.pom
+Progress (1): 992 BProgress (1): 1.9 kBProgress (1): 3.4 kBProgress (1): 5.4 kBProgress (1): 6.9 kBProgress (1): 7.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.pom (7.0 kB at 90 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.14.2/jackson-module-parameter-names-2.14.2.pom
+Progress (1): 973 BProgress (1): 2.9 kBProgress (1): 4.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.14.2/jackson-module-parameter-names-2.14.2.pom (4.4 kB at 51 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.14.2/jackson-modules-java8-2.14.2.pom
+Progress (1): 1.4 kBProgress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.14.2/jackson-modules-java8-2.14.2.pom (3.1 kB at 44 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.pom
+Progress (1): 1.4 kBProgress (1): 2.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.pom (2.3 kB at 25 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom
+Progress (1): 1.4 kBProgress (1): 2.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.pom (2.0 kB at 29 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.pom
+Progress (1): 753 BProgress (1): 1.9 kBProgress (1): 3.5 kBProgress (1): 6.8 kBProgress (1): 9.5 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 15 kBProgress (1): 19 kBProgress (1): 22 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.pom (22 kB at 271 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5/5.3.1/httpclient5-5.3.1.pom
+Progress (1): 869 BProgress (1): 3.2 kBProgress (1): 5.5 kBProgress (1): 6.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5/5.3.1/httpclient5-5.3.1.pom (6.0 kB at 81 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5-parent/5.3.1/httpclient5-parent-5.3.1.pom
+Progress (1): 837 BProgress (1): 2.2 kBProgress (1): 4.0 kBProgress (1): 8.5 kBProgress (1): 12 kB Progress (1): 15 kBProgress (1): 17 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5-parent/5.3.1/httpclient5-parent-5.3.1.pom (17 kB at 192 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/13/httpcomponents-parent-13.pom
+Progress (1): 805 BProgress (1): 2.1 kBProgress (1): 4.1 kBProgress (1): 5.9 kBProgress (1): 7.1 kBProgress (1): 8.5 kBProgress (1): 12 kB Progress (1): 13 kBProgress (1): 16 kBProgress (1): 19 kBProgress (1): 23 kBProgress (1): 25 kBProgress (1): 28 kBProgress (1): 30 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-parent/13/httpcomponents-parent-13.pom (30 kB at 351 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5/5.2.4/httpcore5-5.2.4.pom
+Progress (1): 883 BProgress (1): 2.9 kBProgress (1): 3.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5/5.2.4/httpcore5-5.2.4.pom (3.9 kB at 58 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-parent/5.2.4/httpcore5-parent-5.2.4.pom
+Progress (1): 847 BProgress (1): 2.2 kBProgress (1): 3.9 kBProgress (1): 7.3 kBProgress (1): 10 kB Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-parent/5.2.4/httpcore5-parent-5.2.4.pom (14 kB at 191 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-h2/5.2.4/httpcore5-h2-5.2.4.pom
+Progress (1): 889 BProgress (1): 3.1 kBProgress (1): 3.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-h2/5.2.4/httpcore5-h2-5.2.4.pom (3.6 kB at 52 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.23/spring-core-6.0.23.pom
+Progress (1): 1.1 kBProgress (1): 2.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-core/6.0.23/spring-core-6.0.23.pom (2.0 kB at 25 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.23/spring-jcl-6.0.23.pom
+Progress (1): 1.1 kBProgress (1): 1.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/6.0.23/spring-jcl-6.0.23.pom (1.8 kB at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/tomlj/tomlj/1.0.0/tomlj-1.0.0.pom
+Progress (1): 1.2 kBProgress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/tomlj/tomlj/1.0.0/tomlj-1.0.0.pom (2.8 kB at 34 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.pom
+Progress (1): 915 BProgress (1): 3.3 kBProgress (1): 3.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.pom (3.6 kB at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.7.2/antlr4-master-4.7.2.pom
+Progress (1): 1.0 kBProgress (1): 2.9 kBProgress (1): 4.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-master/4.7.2/antlr4-master-4.7.2.pom (4.4 kB at 60 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+Progress (1): 1.0 kBProgress (1): 3.7 kBProgress (1): 4.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom (4.3 kB at 54 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-loader-tools/3.3.4/spring-boot-loader-tools-3.3.4.pom
+Progress (1): 1.0 kBProgress (1): 2.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-loader-tools/3.3.4/spring-boot-loader-tools-3.3.4.pom (2.2 kB at 26 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.3.2/maven-common-artifact-filters-3.3.2.pom
+Progress (1): 791 BProgress (1): 2.3 kBProgress (1): 5.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.3.2/maven-common-artifact-filters-3.3.2.pom (5.3 kB at 68 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/37/maven-shared-components-37.pom
+Progress (1): 781 BProgress (1): 2.3 kBProgress (1): 4.5 kBProgress (1): 4.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/37/maven-shared-components-37.pom (4.9 kB at 70 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.10/micrometer-observation-1.12.10.pom
+Progress (1): 1.1 kBProgress (1): 3.4 kBProgress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.10/micrometer-observation-1.12.10.pom (3.8 kB at 48 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.10/micrometer-commons-1.12.10.pom
+Progress (1): 1.1 kBProgress (1): 3.1 kBProgress (1): 3.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.10/micrometer-commons-1.12.10.pom (3.4 kB at 50 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.5.0/maven-shade-plugin-3.5.0.pom
+Progress (1): 764 BProgress (1): 2.3 kBProgress (1): 4.8 kBProgress (1): 8.4 kBProgress (1): 11 kB Progress (1): 12 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.5.0/maven-shade-plugin-3.5.0.pom (12 kB at 148 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.pom
+Progress (1): 1.0 kBProgress (1): 3.3 kBProgress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.pom (3.8 kB at 53 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.32/slf4j-parent-1.7.32.pom
+Progress (1): 1.0 kBProgress (1): 3.2 kBProgress (1): 6.0 kBProgress (1): 9.1 kBProgress (1): 12 kB Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.32/slf4j-parent-1.7.32.pom (14 kB at 175 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.5/asm-9.5.pom
+Progress (1): 1.3 kBProgress (1): 2.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.5/asm-9.5.pom (2.4 kB at 29 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.pom
+Progress (1): 1.1 kBProgress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.pom (2.8 kB at 40 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.pom
+Progress (1): 1.1 kBProgress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.pom (2.6 kB at 37 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.pom
+Progress (1): 956 BProgress (1): 2.2 kBProgress (1): 3.2 kBProgress (1): 4.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.pom (4.6 kB at 63 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-tree/3.2.1/maven-dependency-tree-3.2.1.pom
+Progress (1): 786 BProgress (1): 2.2 kBProgress (1): 4.4 kBProgress (1): 6.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-tree/3.2.1/maven-dependency-tree-3.2.1.pom (6.2 kB at 96 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/vafer/jdependency/2.8.0/jdependency-2.8.0.pom
+Progress (1): 1.1 kBProgress (1): 5.0 kBProgress (1): 8.6 kBProgress (1): 13 kB Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/vafer/jdependency/2.8.0/jdependency-2.8.0.pom (14 kB at 169 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+Progress (1): 763 BProgress (1): 2.2 kBProgress (1): 5.1 kBProgress (1): 8.9 kBProgress (1): 12 kB Progress (1): 14 kBProgress (1): 16 kBProgress (1): 19 kBProgress (1): 22 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom (24 kB at 305 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/48/commons-parent-48.pom
+Progress (1): 704 BProgress (1): 1.9 kBProgress (1): 3.2 kBProgress (1): 4.7 kBProgress (1): 8.4 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 17 kBProgress (1): 21 kBProgress (1): 24 kBProgress (1): 26 kBProgress (1): 29 kBProgress (1): 32 kBProgress (1): 36 kBProgress (1): 38 kBProgress (1): 39 kBProgress (1): 41 kBProgress (1): 45 kBProgress (1): 50 kBProgress (1): 55 kBProgress (1): 59 kBProgress (1): 62 kBProgress (1): 64 kBProgress (1): 66 kBProgress (1): 68 kBProgress (1): 70 kBProgress (1): 72 kBProgress (1): 72 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/48/commons-parent-48.pom (72 kB at 728 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-buildpack-platform/3.3.4/spring-boot-buildpack-platform-3.3.4.jar
+Progress (1): 7.7/289 kBProgress (1): 16/289 kB Progress (1): 25/289 kBProgress (1): 41/289 kBProgress (1): 57/289 kBProgress (1): 74/289 kBProgress (1): 90/289 kBProgress (1): 106/289 kBProgress (1): 123/289 kBProgress (1): 139/289 kBProgress (1): 156/289 kBProgress (1): 172/289 kBProgress (1): 188/289 kBProgress (1): 205/289 kBProgress (1): 221/289 kBProgress (1): 238/289 kBProgress (1): 254/289 kBProgress (1): 270/289 kBProgress (1): 287/289 kBProgress (1): 289 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-buildpack-platform/3.3.4/spring-boot-buildpack-platform-3.3.4.jar (289 kB at 1.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.14.2/jackson-module-parameter-names-2.14.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar
+Progress (1): 0/1.6 MBProgress (1): 0/1.6 MBProgress (1): 0/1.6 MBProgress (2): 0/1.6 MB | 0.9/9.5 kBProgress (3): 0/1.6 MB | 0.9/9.5 kB | 0/1.4 MBProgress (3): 0/1.6 MB | 0.9/9.5 kB | 0/1.4 MBProgress (3): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MBProgress (4): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MB | 0.9/459 kBProgress (4): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MB | 0.9/459 kBProgress (4): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MB | 2.3/459 kBProgress (4): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MB | 2.3/459 kBProgress (4): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0/1.6 MB | 2.3/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0/1.6 MB | 3.6/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0/1.6 MB | 3.6/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0/1.6 MB | 3.6/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0/1.6 MB | 5.0/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0/1.6 MB | 6.4/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0.1/1.6 MB | 6.4/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0.1/1.6 MB | 7.7/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0.1/1.6 MB | 9.1/9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 3.6/459 kB    Progress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 3.6/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 5.0/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 6.4/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 6.4/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 7.7/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 7.7/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 7.7/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 9.1/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 9.1/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 10/459 kB Progress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 10/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 12/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 13/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 13/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 15/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 16/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 17/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 17/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 19/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 20/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 20/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 21/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 21/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 23/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 24/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 24/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 26/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 26/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 26/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 27/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 27/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 27/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 28/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 28/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 30/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 31/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 32/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 34/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 35/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 36/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 38/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 39/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 41/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 42/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 42/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 42/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 42/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 42/459 kBProgress (4): 0.1/1.6 MB | 9.5 kB | 0/1.4 MB | 42/459 kB                                                        Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.14.2/jackson-module-parameter-names-2.14.2.jar (9.5 kB at 84 kB/s)
+Progress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kB                                               Downloading from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar
+Progress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 42/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 43/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 43/459 kBProgress (3): 0.1/1.6 MB | 0/1.4 MB | 43/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 43/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 45/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 45/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 45/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 46/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 46/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 50/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 55/459 kBProgress (3): 0.1/1.6 MB | 0.1/1.4 MB | 59/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 59/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 63/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 63/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 63/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 63/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 63/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 63/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.2/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 67/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 71/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 71/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 71/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 76/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 76/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 76/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 80/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 80/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 80/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 80/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 84/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 84/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 84/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 88/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 88/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 93/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 93/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 97/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 97/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 97/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 101/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 105/459 kBProgress (3): 0.3/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 110/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 114/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 114/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 118/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 122/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 126/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 126/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 126/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 126/459 kBProgress (3): 0.4/1.6 MB | 0.1/1.4 MB | 126/459 kBProgress (3): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.5/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.1/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 126/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 131/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 131/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 131/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 131/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 131/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.6/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (4): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 0.9/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 2.3/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 3.6/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 5.0/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 6.4/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 7.7/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 9.1/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 10/77 kB Progress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 12/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 135/459 kB | 0.1/1.9 MB | 13/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 139/459 kB | 0.1/1.9 MB | 13/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 139/459 kB | 0.1/1.9 MB | 15/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 139/459 kB | 0.1/1.9 MB | 16/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 139/459 kB | 0.1/1.9 MB | 17/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 143/459 kB | 0.1/1.9 MB | 17/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 143/459 kB | 0.1/1.9 MB | 19/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 143/459 kB | 0.1/1.9 MB | 20/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 143/459 kB | 0.1/1.9 MB | 21/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 143/459 kB | 0.1/1.9 MB | 23/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 143/459 kB | 0.1/1.9 MB | 24/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 147/459 kB | 0.1/1.9 MB | 24/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 147/459 kB | 0.1/1.9 MB | 25/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 147/459 kB | 0.1/1.9 MB | 26/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 152/459 kB | 0.1/1.9 MB | 26/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 152/459 kB | 0.1/1.9 MB | 27/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 152/459 kB | 0.1/1.9 MB | 29/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 152/459 kB | 0.1/1.9 MB | 30/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 156/459 kB | 0.1/1.9 MB | 30/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 156/459 kB | 0.1/1.9 MB | 31/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 156/459 kB | 0.1/1.9 MB | 33/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 160/459 kB | 0.1/1.9 MB | 33/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 160/459 kB | 0.1/1.9 MB | 34/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 160/459 kB | 0.1/1.9 MB | 36/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 164/459 kB | 0.1/1.9 MB | 36/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 164/459 kB | 0.1/1.9 MB | 37/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 164/459 kB | 0.1/1.9 MB | 38/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 169/459 kB | 0.1/1.9 MB | 38/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 169/459 kB | 0.1/1.9 MB | 40/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 169/459 kB | 0.1/1.9 MB | 41/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 173/459 kB | 0.1/1.9 MB | 41/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 173/459 kB | 0.1/1.9 MB | 42/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 173/459 kB | 0.1/1.9 MB | 44/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 177/459 kB | 0.1/1.9 MB | 44/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 177/459 kB | 0.1/1.9 MB | 45/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 177/459 kB | 0.1/1.9 MB | 46/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 177/459 kB | 0.1/1.9 MB | 48/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 181/459 kB | 0.1/1.9 MB | 48/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 181/459 kB | 0.1/1.9 MB | 49/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 181/459 kB | 0.1/1.9 MB | 51/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 181/459 kB | 0.1/1.9 MB | 52/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 52/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 53/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.7/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.2/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.8/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 0.9/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 186/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 190/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 190/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 194/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 194/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 198/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 202/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 207/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 207/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 211/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 211/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 215/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 215/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 215/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 215/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 232/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 232/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 248/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 248/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.0/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.1/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.1/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.1/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.1/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.1/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.1/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.2/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 55/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 59/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 59/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 63/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 67/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 72/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 72/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 76/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 76/77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kB   Progress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.1/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 262/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.3/1.4 MB | 278/459 kB | 0.2/1.9 MB | 77 kBProgress (5): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MB | 77 kB                                                                       Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.jar (77 kB at 262 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.jar
+Progress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.3/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.4/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.4/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 278/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.5/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 294/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 311/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 311/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.5/1.4 MB | 311/459 kB | 0.2/1.9 MBProgress (4): 1.6/1.6 MB | 0.6/1.4 MB | 311/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 311/459 kB | 0.2/1.9 MB    Progress (4): 1.6 MB | 0.6/1.4 MB | 327/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 327/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 327/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 344/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 360/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 360/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 360/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 376/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 393/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 409/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 425/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 442/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 458/459 kB | 0.2/1.9 MBProgress (4): 1.6 MB | 0.6/1.4 MB | 459 kB | 0.2/1.9 MB                                                           Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2.jar (1.6 MB at 4.9 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5/5.3.1/httpclient5-5.3.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.14.2/jackson-core-2.14.2.jar (459 kB at 1.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5/5.2.4/httpcore5-5.2.4.jar
+Progress (2): 0.6/1.4 MB | 0.2/1.9 MBProgress (2): 0.6/1.4 MB | 0.2/1.9 MBProgress (2): 0.6/1.4 MB | 0.2/1.9 MBProgress (2): 0.6/1.4 MB | 0.2/1.9 MBProgress (2): 0.6/1.4 MB | 0.2/1.9 MBProgress (2): 0.7/1.4 MB | 0.2/1.9 MBProgress (2): 0.7/1.4 MB | 0.2/1.9 MBProgress (2): 0.7/1.4 MB | 0.2/1.9 MBProgress (2): 0.7/1.4 MB | 0.3/1.9 MBProgress (2): 0.7/1.4 MB | 0.3/1.9 MBProgress (2): 0.7/1.4 MB | 0.3/1.9 MBProgress (2): 0.7/1.4 MB | 0.3/1.9 MBProgress (2): 0.7/1.4 MB | 0.3/1.9 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.7/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.8/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 0.9/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.3/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MBProgress (3): 1.0/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MBProgress (4): 1.0/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 7.7/862 kBProgress (4): 1.0/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kB Progress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 15/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 32/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 32/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 32/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 32/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 32/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 32/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 48/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 48/862 kBProgress (4): 1.1/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 48/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 48/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 48/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (4): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 7.7/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 16/855 kB Progress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 25/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 25/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 41/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 57/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 74/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 90/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 106/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 123/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 139/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 156/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 172/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 188/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 205/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 221/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 238/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 254/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 65/862 kB | 254/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 81/862 kB | 254/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 81/862 kB | 254/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 81/862 kB | 254/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 81/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 81/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 97/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 97/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 97/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 97/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 114/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.4/1.9 MB | 0.1/1.1 MB | 114/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 114/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 114/862 kB | 270/855 kBProgress (5): 1.2/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 114/862 kB | 287/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 114/862 kB | 287/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 287/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 287/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 303/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 303/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 303/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 319/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 319/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 130/862 kB | 319/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 147/862 kB | 319/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 147/862 kB | 319/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 147/862 kB | 336/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 336/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 343/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 343/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 359/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 359/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 376/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 392/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 392/855 kBProgress (5): 1.3/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 408/855 kBProgress (5): 1.4/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 408/855 kBProgress (5): 1.4/1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 425/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 425/855 kB    Progress (5): 1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 441/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 457/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 474/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 163/862 kB | 474/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.1/1.1 MB | 179/862 kB | 474/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 179/862 kB | 474/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 179/862 kB | 490/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 179/862 kB | 490/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 490/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 507/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 523/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 539/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 556/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 572/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 589/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 605/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 621/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 638/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 654/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 654/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 196/862 kB | 654/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 654/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 670/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 687/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 703/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 720/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 736/855 kBProgress (5): 1.4 MB | 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 752/855 kB                                                                        Downloaded from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.13.0/jna-platform-5.13.0.jar (1.4 MB at 3.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-h2/5.2.4/httpcore5-h2-5.2.4.jar
+Progress (4): 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 752/855 kBProgress (4): 0.5/1.9 MB | 0.2/1.1 MB | 212/862 kB | 752/855 kBProgress (4): 0.5/1.9 MB | 0.2/1.1 MB | 228/862 kB | 752/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 228/862 kB | 752/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 228/862 kB | 769/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 245/862 kB | 769/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 245/862 kB | 785/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 261/862 kB | 785/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 261/862 kB | 802/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 261/862 kB | 818/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 261/862 kB | 834/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 261/862 kB | 851/855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 261/862 kB | 855 kB    Progress (4): 0.6/1.9 MB | 0.2/1.1 MB | 278/862 kB | 855 kBProgress (4): 0.6/1.9 MB | 0.2/1.1 MB | 278/862 kB | 855 kB                                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5/5.2.4/httpcore5-5.2.4.jar (855 kB at 1.9 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/tomlj/tomlj/1.0.0/tomlj-1.0.0.jar
+Progress (3): 0.6/1.9 MB | 0.2/1.1 MB | 294/862 kBProgress (3): 0.6/1.9 MB | 0.2/1.1 MB | 294/862 kBProgress (3): 0.6/1.9 MB | 0.2/1.1 MB | 310/862 kBProgress (3): 0.6/1.9 MB | 0.2/1.1 MB | 310/862 kBProgress (3): 0.6/1.9 MB | 0.2/1.1 MB | 327/862 kBProgress (3): 0.6/1.9 MB | 0.2/1.1 MB | 327/862 kBProgress (3): 0.6/1.9 MB | 0.2/1.1 MB | 327/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 327/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 327/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 343/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 343/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 343/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 343/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 360/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 360/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 360/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 376/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 376/862 kBProgress (3): 0.7/1.9 MB | 0.2/1.1 MB | 392/862 kBProgress (3): 0.8/1.9 MB | 0.2/1.1 MB | 392/862 kBProgress (3): 0.8/1.9 MB | 0.2/1.1 MB | 392/862 kBProgress (3): 0.8/1.9 MB | 0.2/1.1 MB | 409/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 409/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 425/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 441/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 458/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 458/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 474/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 474/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 474/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 491/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 495/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 495/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 495/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 512/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 512/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 528/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 528/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 544/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 544/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.8/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 561/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 577/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 577/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 577/862 kBProgress (3): 0.9/1.9 MB | 0.3/1.1 MB | 594/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 594/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 610/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 626/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 626/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 626/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 643/862 kBProgress (3): 1.0/1.9 MB | 0.3/1.1 MB | 643/862 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 643/862 kB | 7.7/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 659/862 kB | 7.7/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 659/862 kB | 16/237 kB Progress (4): 1.0/1.9 MB | 0.3/1.1 MB | 659/862 kB | 16/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 659/862 kB | 25/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 676/862 kB | 25/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 676/862 kB | 25/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 692/862 kB | 25/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 708/862 kB | 25/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 708/862 kB | 41/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 708/862 kB | 41/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 725/862 kB | 41/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 725/862 kB | 57/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 741/862 kB | 57/237 kBProgress (4): 1.0/1.9 MB | 0.3/1.1 MB | 741/862 kB | 74/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 741/862 kB | 74/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 74/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 90/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 90/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 106/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 123/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 123/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 139/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 156/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 172/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 180/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 197/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 213/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 229/237 kBProgress (4): 1.1/1.9 MB | 0.3/1.1 MB | 757/862 kB | 237 kB                                                               Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/core5/httpcore5-h2/5.2.4/httpcore5-h2-5.2.4.jar (237 kB at 449 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar
+Progress (3): 1.1/1.9 MB | 0.3/1.1 MB | 774/862 kBProgress (3): 1.1/1.9 MB | 0.3/1.1 MB | 790/862 kBProgress (3): 1.1/1.9 MB | 0.3/1.1 MB | 807/862 kBProgress (3): 1.1/1.9 MB | 0.3/1.1 MB | 823/862 kBProgress (3): 1.1/1.9 MB | 0.3/1.1 MB | 839/862 kBProgress (3): 1.1/1.9 MB | 0.3/1.1 MB | 839/862 kBProgress (3): 1.1/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (3): 1.1/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (3): 1.1/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (3): 1.1/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (3): 1.1/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (3): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (3): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 7.7/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 15/157 kB Progress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 15/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 15/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 15/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 32/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 32/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 48/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 48/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 65/157 kBProgress (4): 1.2/1.9 MB | 0.4/1.1 MB | 839/862 kB | 65/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 65/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 81/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 81/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 81/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 97/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 97/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 114/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 130/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 130/157 kBProgress (4): 1.2/1.9 MB | 0.5/1.1 MB | 839/862 kB | 130/157 kBProgress (4): 1.3/1.9 MB | 0.5/1.1 MB | 839/862 kB | 130/157 kBProgress (4): 1.3/1.9 MB | 0.5/1.1 MB | 839/862 kB | 130/157 kBProgress (4): 1.3/1.9 MB | 0.5/1.1 MB | 839/862 kB | 147/157 kBProgress (4): 1.3/1.9 MB | 0.5/1.1 MB | 839/862 kB | 147/157 kBProgress (4): 1.3/1.9 MB | 0.5/1.1 MB | 839/862 kB | 157 kB    Progress (4): 1.3/1.9 MB | 0.6/1.1 MB | 839/862 kB | 157 kBProgress (4): 1.3/1.9 MB | 0.6/1.1 MB | 839/862 kB | 157 kBProgress (4): 1.3/1.9 MB | 0.6/1.1 MB | 839/862 kB | 157 kBProgress (4): 1.3/1.9 MB | 0.6/1.1 MB | 839/862 kB | 157 kBProgress (4): 1.3/1.9 MB | 0.6/1.1 MB | 856/862 kB | 157 kBProgress (4): 1.3/1.9 MB | 0.6/1.1 MB | 856/862 kB | 157 kBProgress (4): 1.3/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kB    Progress (4): 1.4/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.4/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.4/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.4/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.4/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.4/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.5/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.5/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.5/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.5/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kBProgress (4): 1.5/1.9 MB | 0.6/1.1 MB | 862 kB | 157 kB                                                       Downloaded from central: https://repo.maven.apache.org/maven2/org/tomlj/tomlj/1.0.0/tomlj-1.0.0.jar (157 kB at 277 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/client5/httpclient5/5.3.1/httpclient5-5.3.1.jar (862 kB at 1.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-loader-tools/3.3.4/spring-boot-loader-tools-3.3.4.jar
+Progress (2): 1.5/1.9 MB | 0.6/1.1 MBProgress (2): 1.5/1.9 MB | 0.6/1.1 MBProgress (2): 1.6/1.9 MB | 0.6/1.1 MBProgress (2): 1.6/1.9 MB | 0.6/1.1 MBProgress (2): 1.6/1.9 MB | 0.6/1.1 MBProgress (2): 1.6/1.9 MB | 0.6/1.1 MBProgress (2): 1.6/1.9 MB | 0.6/1.1 MBProgress (2): 1.6/1.9 MB | 0.6/1.1 MBProgress (2): 1.7/1.9 MB | 0.6/1.1 MBProgress (2): 1.7/1.9 MB | 0.6/1.1 MBProgress (2): 1.7/1.9 MB | 0.6/1.1 MBProgress (2): 1.7/1.9 MB | 0.6/1.1 MBProgress (2): 1.7/1.9 MB | 0.6/1.1 MBProgress (2): 1.7/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.8/1.9 MB | 0.6/1.1 MBProgress (2): 1.9/1.9 MB | 0.6/1.1 MBProgress (2): 1.9/1.9 MB | 0.6/1.1 MBProgress (2): 1.9 MB | 0.6/1.1 MB    Progress (3): 1.9 MB | 0.6/1.1 MB | 7.7/338 kBProgress (3): 1.9 MB | 0.6/1.1 MB | 15/338 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar (1.9 MB at 3.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.3.2/maven-common-artifact-filters-3.3.2.jar
+Progress (2): 0.6/1.1 MB | 32/338 kBProgress (2): 0.6/1.1 MB | 48/338 kBProgress (2): 0.6/1.1 MB | 65/338 kBProgress (2): 0.6/1.1 MB | 81/338 kBProgress (2): 0.6/1.1 MB | 97/338 kBProgress (2): 0.6/1.1 MB | 97/338 kBProgress (2): 0.7/1.1 MB | 97/338 kBProgress (2): 0.7/1.1 MB | 114/338 kBProgress (2): 0.7/1.1 MB | 130/338 kBProgress (2): 0.7/1.1 MB | 130/338 kBProgress (2): 0.7/1.1 MB | 147/338 kBProgress (2): 0.7/1.1 MB | 163/338 kBProgress (2): 0.7/1.1 MB | 179/338 kBProgress (2): 0.7/1.1 MB | 196/338 kBProgress (2): 0.7/1.1 MB | 212/338 kBProgress (2): 0.7/1.1 MB | 228/338 kBProgress (2): 0.7/1.1 MB | 245/338 kBProgress (2): 0.7/1.1 MB | 261/338 kBProgress (2): 0.7/1.1 MB | 278/338 kBProgress (2): 0.7/1.1 MB | 294/338 kBProgress (2): 0.7/1.1 MB | 310/338 kBProgress (2): 0.7/1.1 MB | 327/338 kBProgress (2): 0.7/1.1 MB | 338 kB                                     Downloaded from central: https://repo.maven.apache.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar (338 kB at 536 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.10/micrometer-observation-1.12.10.jar
+Progress (1): 0.7/1.1 MBProgress (1): 0.7/1.1 MBProgress (1): 0.7/1.1 MBProgress (1): 0.7/1.1 MBProgress (1): 0.7/1.1 MBProgress (1): 0.8/1.1 MBProgress (1): 0.8/1.1 MBProgress (1): 0.8/1.1 MBProgress (1): 0.8/1.1 MBProgress (1): 0.8/1.1 MBProgress (1): 0.8/1.1 MBProgress (2): 0.8/1.1 MB | 7.7/464 kBProgress (2): 0.8/1.1 MB | 7.7/464 kBProgress (2): 0.8/1.1 MB | 16/464 kB Progress (2): 0.9/1.1 MB | 16/464 kBProgress (2): 0.9/1.1 MB | 25/464 kBProgress (2): 0.9/1.1 MB | 41/464 kBProgress (2): 0.9/1.1 MB | 41/464 kBProgress (2): 0.9/1.1 MB | 41/464 kBProgress (2): 0.9/1.1 MB | 41/464 kBProgress (2): 0.9/1.1 MB | 41/464 kBProgress (2): 0.9/1.1 MB | 41/464 kBProgress (2): 1.0/1.1 MB | 41/464 kBProgress (2): 1.0/1.1 MB | 57/464 kBProgress (2): 1.0/1.1 MB | 57/464 kBProgress (2): 1.0/1.1 MB | 66/464 kBProgress (2): 1.0/1.1 MB | 66/464 kBProgress (2): 1.0/1.1 MB | 82/464 kBProgress (2): 1.0/1.1 MB | 82/464 kBProgress (2): 1.0/1.1 MB | 98/464 kBProgress (2): 1.0/1.1 MB | 115/464 kBProgress (2): 1.0/1.1 MB | 131/464 kBProgress (2): 1.0/1.1 MB | 147/464 kBProgress (2): 1.0/1.1 MB | 164/464 kBProgress (2): 1.0/1.1 MB | 180/464 kBProgress (2): 1.0/1.1 MB | 197/464 kBProgress (2): 1.0/1.1 MB | 213/464 kBProgress (2): 1.0/1.1 MB | 229/464 kBProgress (2): 1.0/1.1 MB | 246/464 kBProgress (2): 1.0/1.1 MB | 262/464 kBProgress (2): 1.0/1.1 MB | 279/464 kBProgress (2): 1.0/1.1 MB | 295/464 kBProgress (2): 1.0/1.1 MB | 311/464 kBProgress (2): 1.0/1.1 MB | 328/464 kBProgress (2): 1.0/1.1 MB | 344/464 kBProgress (2): 1.0/1.1 MB | 360/464 kBProgress (2): 1.0/1.1 MB | 377/464 kBProgress (2): 1.0/1.1 MB | 393/464 kBProgress (2): 1.0/1.1 MB | 410/464 kBProgress (2): 1.0/1.1 MB | 426/464 kBProgress (2): 1.0/1.1 MB | 442/464 kBProgress (2): 1.0/1.1 MB | 459/464 kBProgress (2): 1.0/1.1 MB | 464 kB    Progress (3): 1.0/1.1 MB | 464 kB | 7.7/20 kBProgress (3): 1.0/1.1 MB | 464 kB | 11/20 kB Progress (3): 1.0/1.1 MB | 464 kB | 20 kB                                            Downloaded from central: https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar (20 kB at 30 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.10/micrometer-commons-1.12.10.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-loader-tools/3.3.4/spring-boot-loader-tools-3.3.4.jar (464 kB at 704 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.5.0/maven-shade-plugin-3.5.0.jar
+Progress (2): 1.0/1.1 MB | 7.7/58 kBProgress (2): 1.0/1.1 MB | 16/58 kB Progress (2): 1.0/1.1 MB | 24/58 kBProgress (2): 1.0/1.1 MB | 40/58 kBProgress (2): 1.0/1.1 MB | 57/58 kBProgress (2): 1.0/1.1 MB | 58 kB                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-common-artifact-filters/3.3.2/maven-common-artifact-filters-3.3.2.jar (58 kB at 88 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.5/asm-9.5.jar
+Progress (1): 1.0/1.1 MBProgress (1): 1.0/1.1 MBProgress (1): 1.1/1.1 MBProgress (1): 1.1/1.1 MBProgress (1): 1.1 MB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.25.0/commons-compress-1.25.0.jar (1.1 MB at 1.6 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar
+Progress (1): 7.7/72 kBProgress (1): 12/72 kB Progress (1): 29/72 kBProgress (1): 45/72 kBProgress (1): 61/72 kBProgress (1): 72 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-observation/1.12.10/micrometer-observation-1.12.10.jar (72 kB at 102 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar
+Progress (1): 7.7/147 kBProgress (1): 16/147 kB Progress (1): 25/147 kBProgress (1): 41/147 kBProgress (1): 57/147 kBProgress (1): 74/147 kBProgress (1): 90/147 kBProgress (2): 90/147 kB | 7.7/122 kBProgress (2): 90/147 kB | 12/122 kB Progress (2): 90/147 kB | 29/122 kBProgress (2): 90/147 kB | 45/122 kBProgress (2): 90/147 kB | 61/122 kBProgress (3): 90/147 kB | 61/122 kB | 7.7/47 kBProgress (3): 90/147 kB | 61/122 kB | 16/47 kB Progress (3): 106/147 kB | 61/122 kB | 16/47 kBProgress (3): 106/147 kB | 61/122 kB | 29/47 kBProgress (3): 123/147 kB | 61/122 kB | 29/47 kBProgress (3): 123/147 kB | 78/122 kB | 29/47 kBProgress (3): 123/147 kB | 78/122 kB | 45/47 kBProgress (3): 123/147 kB | 94/122 kB | 45/47 kBProgress (3): 123/147 kB | 94/122 kB | 47 kB   Progress (3): 139/147 kB | 94/122 kB | 47 kBProgress (3): 147 kB | 94/122 kB | 47 kB    Progress (3): 147 kB | 111/122 kB | 47 kBProgress (3): 147 kB | 122 kB | 47 kB                                         Downloaded from central: https://repo.maven.apache.org/maven2/io/micrometer/micrometer-commons/1.12.10/micrometer-commons-1.12.10.jar (47 kB at 63 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.5/asm-9.5.jar (122 kB at 163 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-tree/3.2.1/maven-dependency-tree-3.2.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.5.0/maven-shade-plugin-3.5.0.jar (147 kB at 195 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/vafer/jdependency/2.8.0/jdependency-2.8.0.jar
+Progress (1): 3.2/72 kBProgress (1): 20/72 kB Progress (1): 36/72 kBProgress (1): 52/72 kBProgress (1): 69/72 kBProgress (1): 72 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar (72 kB at 95 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+Progress (1): 7.7/52 kBProgress (1): 11/52 kB Progress (1): 28/52 kBProgress (1): 44/52 kBProgress (1): 52 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar (52 kB at 67 kB/s)
+Progress (1): 7.7/328 kBProgress (1): 11/328 kB Progress (1): 28/328 kBProgress (1): 44/328 kBProgress (1): 61/328 kBProgress (1): 77/328 kBProgress (2): 77/328 kB | 7.7/43 kBProgress (2): 77/328 kB | 15/43 kB Progress (2): 77/328 kB | 32/43 kBProgress (2): 93/328 kB | 32/43 kBProgress (2): 93/328 kB | 43 kB   Progress (2): 110/328 kB | 43 kBProgress (2): 126/328 kB | 43 kBProgress (2): 142/328 kB | 43 kBProgress (2): 159/328 kB | 43 kBProgress (2): 175/328 kB | 43 kBProgress (2): 192/328 kB | 43 kBProgress (2): 208/328 kB | 43 kBProgress (2): 224/328 kB | 43 kBProgress (2): 241/328 kB | 43 kBProgress (2): 257/328 kB | 43 kB                                Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-dependency-tree/3.2.1/maven-dependency-tree-3.2.1.jar (43 kB at 52 kB/s)
+Progress (1): 274/328 kBProgress (1): 290/328 kBProgress (1): 306/328 kBProgress (1): 323/328 kBProgress (1): 328 kB    Progress (2): 328 kB | 3.2/752 kBProgress (3): 328 kB | 3.2/752 kB | 7.7/233 kBProgress (3): 328 kB | 3.2/752 kB | 8.2/233 kBProgress (3): 328 kB | 3.2/752 kB | 25/233 kB Progress (3): 328 kB | 20/752 kB | 25/233 kB Progress (3): 328 kB | 20/752 kB | 41/233 kBProgress (3): 328 kB | 36/752 kB | 41/233 kBProgress (3): 328 kB | 36/752 kB | 57/233 kBProgress (3): 328 kB | 36/752 kB | 74/233 kBProgress (3): 328 kB | 36/752 kB | 90/233 kB                                            Downloaded from central: https://repo.maven.apache.org/maven2/org/jdom/jdom2/2.0.6.1/jdom2-2.0.6.1.jar (328 kB at 397 kB/s)
+Progress (2): 52/752 kB | 90/233 kBProgress (2): 69/752 kB | 90/233 kBProgress (2): 85/752 kB | 90/233 kBProgress (2): 101/752 kB | 90/233 kBProgress (2): 118/752 kB | 90/233 kBProgress (2): 134/752 kB | 90/233 kBProgress (2): 134/752 kB | 106/233 kBProgress (2): 151/752 kB | 106/233 kBProgress (2): 167/752 kB | 106/233 kBProgress (2): 167/752 kB | 123/233 kBProgress (2): 183/752 kB | 123/233 kBProgress (2): 200/752 kB | 123/233 kBProgress (2): 200/752 kB | 139/233 kBProgress (2): 216/752 kB | 139/233 kBProgress (2): 216/752 kB | 156/233 kBProgress (2): 216/752 kB | 172/233 kBProgress (2): 216/752 kB | 188/233 kBProgress (2): 216/752 kB | 205/233 kBProgress (2): 216/752 kB | 221/233 kBProgress (2): 216/752 kB | 233 kB                                     Downloaded from central: https://repo.maven.apache.org/maven2/org/vafer/jdependency/2.8.0/jdependency-2.8.0.jar (233 kB at 278 kB/s)
+Progress (1): 233/752 kBProgress (1): 249/752 kBProgress (1): 265/752 kBProgress (1): 282/752 kBProgress (1): 298/752 kBProgress (1): 314/752 kBProgress (1): 331/752 kBProgress (1): 347/752 kBProgress (1): 364/752 kBProgress (1): 380/752 kBProgress (1): 396/752 kBProgress (1): 413/752 kBProgress (1): 429/752 kBProgress (1): 446/752 kBProgress (1): 462/752 kBProgress (1): 478/752 kBProgress (1): 495/752 kBProgress (1): 511/752 kBProgress (1): 527/752 kBProgress (1): 544/752 kBProgress (1): 560/752 kBProgress (1): 577/752 kBProgress (1): 593/752 kBProgress (1): 609/752 kBProgress (1): 626/752 kBProgress (1): 642/752 kBProgress (1): 659/752 kBProgress (1): 675/752 kBProgress (1): 691/752 kBProgress (1): 708/752 kBProgress (1): 724/752 kBProgress (1): 740/752 kBProgress (1): 752 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar (752 kB at 818 kB/s)
+[INFO] Attaching agents: []
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2026-05-26T07:52:16.023+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : Starting SettingsManagementApplication using Java 25.0.2 with PID 21920 (C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend\target\classes started by LENOVO in C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend)
+2026-05-26T07:52:16.025+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-05-26T07:52:16.087+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-26T07:52:16.089+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-26T07:52:16.936+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-26T07:52:17.044+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 96 ms. Found 6 JPA repository interfaces.
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by org.apache.tomcat.jni.Library in an unnamed module (file:/C:/Users/LENOVO/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/10.1.30/tomcat-embed-core-10.1.30.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+2026-05-26T07:52:17.835+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2026-05-26T07:52:17.854+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-05-26T07:52:17.855+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2026-05-26T07:52:17.914+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-05-26T07:52:17.915+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1825 ms
+2026-05-26T07:52:18.086+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-26T07:52:18.174+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.3.Final
+2026-05-26T07:52:18.227+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-26T07:52:18.606+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-26T07:52:18.644+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-05-26T07:52:18.881+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@113db3e5
+2026-05-26T07:52:18.883+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-05-26T07:52:18.968+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-26T07:52:20.240+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+Hibernate: 
+    alter table if exists audit_logs 
+       alter column new_value set data type TEXT
+Hibernate: 
+    alter table if exists audit_logs 
+       alter column old_value set data type TEXT
+Hibernate: 
+    alter table if exists configuration_groups 
+       alter column description set data type TEXT
+Hibernate: 
+    alter table if exists roles 
+       alter column description set data type TEXT
+Hibernate: 
+    alter table if exists settings 
+       alter column setting_value set data type TEXT
+Hibernate: 
+    alter table if exists users 
+       alter column password_hash set data type TEXT
+2026-05-26T07:52:20.560+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-26T07:52:21.055+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2026-05-26T07:52:21.056+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used for username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider.
+2026-05-26T07:52:21.225+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-26T07:52:21.904+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-05-26T07:52:21.941+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2026-05-26T07:52:21.949+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : Started SettingsManagementApplication in 6.37 seconds (process running for 6.877)
+2026-05-26T07:53:27.874+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-26T07:53:27.875+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-05-26T07:53:27.876+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+Hibernate: 
+    select
+        u1_0.user_id 
+    from
+        users u1_0 
+    where
+        u1_0.email=? 
+    fetch
+        first ? rows only
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_name=?
+Hibernate: 
+    insert 
+    into
+        users
+        (created_at, email, password_hash, role_id, updated_at, username) 
+    values
+        (?, ?, ?, ?, ?, ?) 
+    returning user_id
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        user_preferences up1_0 
+            on u1_0.user_id=up1_0.user_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username,
+        al1_0.user_id,
+        al1_0.log_id,
+        al1_0.action_type,
+        al1_0.created_at,
+        al1_0.new_value,
+        al1_0.old_value,
+        al1_0.setting_id 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        audit_logs al1_0 
+            on u1_0.user_id=al1_0.user_id 
+    where
+        up1_0.user_id=?
+2026-05-26T07:53:29.762+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-6] org.hibernate.AssertionFailure           : HHH000099: an assertion failure occurred (this may indicate a bug in Hibernate, but is more likely due to unsafe use of the session): org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)
+2026-05-26T07:53:29.778+05:30  WARN 21920 --- [settings-management-api] [nio-8001-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)]
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        user_preferences up1_0 
+            on u1_0.user_id=up1_0.user_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username,
+        al1_0.user_id,
+        al1_0.log_id,
+        al1_0.action_type,
+        al1_0.created_at,
+        al1_0.new_value,
+        al1_0.old_value,
+        al1_0.setting_id 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        audit_logs al1_0 
+            on u1_0.user_id=al1_0.user_id 
+    where
+        up1_0.user_id=?
+2026-05-26T07:53:30.207+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-3] org.hibernate.AssertionFailure           : HHH000099: an assertion failure occurred (this may indicate a bug in Hibernate, but is more likely due to unsafe use of the session): org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)
+2026-05-26T07:53:30.208+05:30  WARN 21920 --- [settings-management-api] [nio-8001-exec-3] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)]
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        user_preferences up1_0 
+            on u1_0.user_id=up1_0.user_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username,
+        al1_0.user_id,
+        al1_0.log_id,
+        al1_0.action_type,
+        al1_0.created_at,
+        al1_0.new_value,
+        al1_0.old_value,
+        al1_0.setting_id 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        audit_logs al1_0 
+            on u1_0.user_id=al1_0.user_id 
+    where
+        up1_0.user_id=?
+2026-05-26T07:53:30.526+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-8] org.hibernate.AssertionFailure           : HHH000099: an assertion failure occurred (this may indicate a bug in Hibernate, but is more likely due to unsafe use of the session): org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)
+2026-05-26T07:53:30.529+05:30  WARN 21920 --- [settings-management-api] [nio-8001-exec-8] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)]
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        user_preferences up1_0 
+    join
+        users u1_0 
+            on u1_0.user_id=up1_0.user_id 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        up1_0.user_id=?
+2026-05-26T08:15:30.138+05:30 ERROR 21920 --- [settings-management-api] [io-8001-exec-10] c.s.m.security.jwt.AuthTokenFilter       : Cannot set user authentication: {}
+
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at io.jsonwebtoken.impl.ImmutableJwtParser.parse(ImmutableJwtParser.java:148) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at com.settings.management.security.jwt.JwtUtils.validateJwtToken(JwtUtils.java:48) ~[classes/:na]
+	at com.settings.management.security.jwt.AuthTokenFilter.doFilterInternal(AuthTokenFilter.java:34) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-05-26T08:15:30.138+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-1] c.s.m.security.jwt.AuthTokenFilter       : Cannot set user authentication: {}
+
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at io.jsonwebtoken.impl.ImmutableJwtParser.parse(ImmutableJwtParser.java:148) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at com.settings.management.security.jwt.JwtUtils.validateJwtToken(JwtUtils.java:48) ~[classes/:na]
+	at com.settings.management.security.jwt.AuthTokenFilter.doFilterInternal(AuthTokenFilter.java:34) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-05-26T08:15:30.157+05:30 ERROR 21920 --- [settings-management-api] [io-8001-exec-10] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:30.157+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-1] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:30.172+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-1] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:30.173+05:30 ERROR 21920 --- [settings-management-api] [io-8001-exec-10] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:31.462+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-6] c.s.m.security.jwt.AuthTokenFilter       : Cannot set user authentication: {}
+
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at io.jsonwebtoken.impl.ImmutableJwtParser.parse(ImmutableJwtParser.java:148) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at com.settings.management.security.jwt.JwtUtils.validateJwtToken(JwtUtils.java:48) ~[classes/:na]
+	at com.settings.management.security.jwt.AuthTokenFilter.doFilterInternal(AuthTokenFilter.java:34) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-05-26T08:15:31.464+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-5] c.s.m.security.jwt.AuthTokenFilter       : Cannot set user authentication: {}
+
+io.jsonwebtoken.security.SignatureException: JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:399) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at io.jsonwebtoken.impl.ImmutableJwtParser.parse(ImmutableJwtParser.java:148) ~[jjwt-impl-0.11.5.jar:0.11.5]
+	at com.settings.management.security.jwt.JwtUtils.validateJwtToken(JwtUtils.java:48) ~[classes/:na]
+	at com.settings.management.security.jwt.AuthTokenFilter.doFilterInternal(AuthTokenFilter.java:34) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:195) ~[spring-webmvc-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:230) ~[spring-security-config-6.3.3.jar:6.3.3]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:352) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:268) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.13.jar:6.1.13]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:384) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.30.jar:10.1.30]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[na:na]
+
+2026-05-26T08:15:31.467+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-6] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:31.468+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-5] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:31.472+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-6] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:15:31.472+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-5] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:19:55.738+05:30  INFO 21920 --- [settings-management-api] [   File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 45 class path changes (0 additions, 0 deletions, 45 modifications)
+2026-05-26T08:19:55.783+05:30  INFO 21920 --- [settings-management-api] [       Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-26T08:19:55.788+05:30  INFO 21920 --- [settings-management-api] [       Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-05-26T08:19:55.795+05:30  INFO 21920 --- [settings-management-api] [       Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2026-05-26T08:19:55.876+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : Starting SettingsManagementApplication using Java 25.0.2 with PID 21920 (C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend\target\classes started by LENOVO in C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend)
+2026-05-26T08:19:55.877+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-05-26T08:19:56.116+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-26T08:19:56.179+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 29 ms. Found 6 JPA repository interfaces.
+2026-05-26T08:19:56.314+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2026-05-26T08:19:56.352+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-05-26T08:19:56.352+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2026-05-26T08:19:56.380+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-05-26T08:19:56.380+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 500 ms
+2026-05-26T08:19:56.469+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-26T08:19:56.476+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-26T08:19:56.487+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-26T08:19:56.488+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2026-05-26T08:19:56.540+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@4301d2a5
+2026-05-26T08:19:56.541+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2026-05-26T08:19:56.551+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-26T08:19:56.686+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+Hibernate: 
+    alter table if exists audit_logs 
+       alter column new_value set data type TEXT
+Hibernate: 
+    alter table if exists audit_logs 
+       alter column old_value set data type TEXT
+Hibernate: 
+    alter table if exists configuration_groups 
+       alter column description set data type TEXT
+Hibernate: 
+    alter table if exists roles 
+       alter column description set data type TEXT
+Hibernate: 
+    alter table if exists settings 
+       alter column setting_value set data type TEXT
+Hibernate: 
+    alter table if exists users 
+       alter column password_hash set data type TEXT
+2026-05-26T08:19:56.823+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-26T08:19:56.928+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2026-05-26T08:19:56.930+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used for username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider.
+2026-05-26T08:19:57.048+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-26T08:19:57.368+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-05-26T08:19:57.420+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2026-05-26T08:19:57.430+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : Started SettingsManagementApplication in 1.581 seconds (process running for 1662.359)
+2026-05-26T08:19:57.432+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-05-26T08:20:43.635+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-26T08:20:43.637+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-05-26T08:20:43.639+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+Hibernate: 
+    select
+        u1_0.user_id 
+    from
+        users u1_0 
+    where
+        u1_0.email=? 
+    fetch
+        first ? rows only
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_name=?
+Hibernate: 
+    insert 
+    into
+        users
+        (created_at, email, password_hash, role_id, updated_at, username) 
+    values
+        (?, ?, ?, ?, ?, ?) 
+    returning user_id
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    left join
+        user_preferences up1_0 
+            on u1_0.user_id=up1_0.user_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+2026-05-26T08:20:44.751+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-6] org.hibernate.AssertionFailure           : HHH000099: an assertion failure occurred (this may indicate a bug in Hibernate, but is more likely due to unsafe use of the session): org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)
+2026-05-26T08:20:44.755+05:30  WARN 21920 --- [settings-management-api] [nio-8001-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.hibernate.AssertionFailure: null identifier (com.settings.management.entity.UserPreference)]
+2026-05-26T08:22:12.653+05:30  INFO 21920 --- [settings-management-api] [   File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 45 class path changes (0 additions, 0 deletions, 45 modifications)
+2026-05-26T08:22:12.706+05:30  INFO 21920 --- [settings-management-api] [       Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-26T08:22:12.707+05:30  INFO 21920 --- [settings-management-api] [       Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2026-05-26T08:22:12.719+05:30  INFO 21920 --- [settings-management-api] [       Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2026-05-26T08:22:12.898+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : Starting SettingsManagementApplication using Java 25.0.2 with PID 21920 (C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend\target\classes started by LENOVO in C:\Users\LENOVO\Downloads\DBEDBD\EndProject\backend)
+2026-05-26T08:22:12.899+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : No active profile set, falling back to 1 default profile: "default"
+2026-05-26T08:22:13.281+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-26T08:22:13.367+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 50 ms. Found 6 JPA repository interfaces.
+2026-05-26T08:22:13.627+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8001 (http)
+2026-05-26T08:22:13.631+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-05-26T08:22:13.633+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.30]
+2026-05-26T08:22:13.666+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-05-26T08:22:13.667+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 764 ms
+2026-05-26T08:22:13.833+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-26T08:22:13.840+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-26T08:22:13.859+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-26T08:22:13.862+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2026-05-26T08:22:13.944+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Added connection org.postgresql.jdbc.PgConnection@1344ec6c
+2026-05-26T08:22:13.946+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2026-05-26T08:22:13.955+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] org.hibernate.orm.deprecation            : HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-26T08:22:14.219+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+Hibernate: 
+    alter table if exists audit_logs 
+       alter column new_value set data type TEXT
+Hibernate: 
+    alter table if exists audit_logs 
+       alter column old_value set data type TEXT
+Hibernate: 
+    alter table if exists configuration_groups 
+       alter column description set data type TEXT
+Hibernate: 
+    alter table if exists roles 
+       alter column description set data type TEXT
+Hibernate: 
+    alter table if exists settings 
+       alter column setting_value set data type TEXT
+Hibernate: 
+    alter table if exists users 
+       alter column password_hash set data type TEXT
+2026-05-26T08:22:14.370+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-26T08:22:14.585+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] eAuthenticationProviderManagerConfigurer : Global AuthenticationManager configured with AuthenticationProvider bean with name authenticationProvider
+2026-05-26T08:22:14.586+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used for username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider.
+2026-05-26T08:22:14.819+05:30  WARN 21920 --- [settings-management-api] [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-26T08:22:15.319+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2026-05-26T08:22:15.355+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8001 (http) with context path '/'
+2026-05-26T08:22:15.365+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] c.s.m.SettingsManagementApplication      : Started SettingsManagementApplication in 2.543 seconds (process running for 1800.293)
+2026-05-26T08:22:15.368+05:30  INFO 21920 --- [settings-management-api] [  restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2026-05-26T08:52:23.498+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-26T08:52:23.500+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-05-26T08:52:23.501+05:30  INFO 21920 --- [settings-management-api] [nio-8001-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+Hibernate: 
+    select
+        u1_0.user_id 
+    from
+        users u1_0 
+    where
+        u1_0.email=? 
+    fetch
+        first ? rows only
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_name=?
+Hibernate: 
+    insert 
+    into
+        users
+        (created_at, email, password_hash, role_id, updated_at, username) 
+    values
+        (?, ?, ?, ?, ?, ?) 
+    returning user_id
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    insert 
+    into
+        user_preferences
+        (notifications_enabled, ui_theme, updated_at, user_id) 
+    values
+        (?, ?, ?, ?)
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    update
+        user_preferences 
+    set
+        notifications_enabled=?,
+        ui_theme=?,
+        updated_at=? 
+    where
+        user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+Hibernate: 
+    update
+        user_preferences 
+    set
+        notifications_enabled=?,
+        ui_theme=?,
+        updated_at=? 
+    where
+        user_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        u1_0.role_id,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    where
+        u1_0.email=?
+Hibernate: 
+    select
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at 
+    from
+        roles r1_0 
+    where
+        r1_0.role_id=?
+Hibernate: 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.password_hash,
+        r1_0.role_id,
+        r1_0.created_at,
+        r1_0.description,
+        r1_0.role_name,
+        r1_0.updated_at,
+        u1_0.updated_at,
+        u1_0.username 
+    from
+        users u1_0 
+    left join
+        roles r1_0 
+            on r1_0.role_id=u1_0.role_id 
+    where
+        u1_0.user_id=?
+Hibernate: 
+    select
+        up1_0.user_id,
+        up1_0.notifications_enabled,
+        up1_0.ui_theme,
+        up1_0.updated_at 
+    from
+        user_preferences up1_0 
+    where
+        up1_0.user_id=?
+2026-05-26T08:53:05.022+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-9] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
+2026-05-26T08:53:05.026+05:30 ERROR 21920 --- [settings-management-api] [nio-8001-exec-9] c.s.m.security.jwt.AuthEntryPointJwt     : Unauthorized error: Full authentication is required to access this resource
