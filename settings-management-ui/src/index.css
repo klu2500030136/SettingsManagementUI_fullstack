@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased font-sans transition-colors duration-300;
+  }
+  
+  /* Light Theme Defaults */
+  body {
+    @apply bg-surface-200 text-surface-900;
+  }
+  
+  /* Dark Theme Overrides */
+  .dark body {
+    @apply bg-luxury-gradient text-text-main;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+  
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-brand/50 rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-brand-hover;
+  }
+}
+
+@layer components {
+  /* Luxury Glassmorphism System */
+  .glass-card {
+    @apply bg-white/5 backdrop-blur-md border border-border-goldLight shadow-glass-card p-6 rounded-[20px] transition-all duration-300;
+  }
+  .dark .glass-card {
+    @apply bg-[rgba(255,255,255,0.04)] border-[rgba(212,175,55,0.18)] shadow-[0_8px_32px_rgba(0,0,0,0.45)];
+  }
+
+  .gold-text-gradient {
+    @apply bg-gold-gradient text-transparent bg-clip-text;
+  }
+
+  .btn-gold {
+    @apply bg-gold-gradient text-[#0B0B0B] rounded-[14px] font-semibold px-[28px] py-[14px] border-none shadow-gold-btn transition-all duration-300 hover:-translate-y-[2px] hover:shadow-gold-btn-hover;
+  }
+}
